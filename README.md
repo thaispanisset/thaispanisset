@@ -21,4 +21,4 @@ Hoje a maioria dos meus trabalhos envolvem o PHP, pois lido diariamente com CMS 
 
 
 ## 💻 Com o que trabalho atualmente?
-![HTML5 (shields.io)](https://img.shields.io/badge/-HTML5-%23E34F26) ![CSS3 (shields.io)](https://img.shields.io/badge/-CSS3-%231572B6) ![JavaScript (shields.io)](https://img.shields.io/badge/-JavaScript-%23F7DF1E) ![Bootstrap (shields.io)](https://img.shields.io/badge/-Bootstrap-%237952B3) ![WordPress (shields.io)](https://img.shields.io/badge/-WordPress-%2321759B)
+![HTML5 (shields.io)](https://img.shields.io/badge/-HTML5-%23E34F26) ![CSS3 (shields.io)](https://img.shields.io/badge/-CSS3-%231572B6) ![JavaScript (shields.io)](https://img.shields.io/badge/-JavaScript-%23F7DF1E) ![PHP (shields.io)](https://img.shields.io/badge/-PHP-%23777BB4) ![Bootstrap (shields.io)](https://img.shields.io/badge/-Bootstrap-%237952B3) ![WordPress (shields.io)](https://img.shields.io/badge/-WordPress-%2321759B)
