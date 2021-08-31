@@ -15,9 +15,11 @@ Sou iniciante na área de desenvolvimento e, atualmente, trabalho com desenvolvi
 Estou aprofundando meus estudos no Front-End e escolhi o Vue.js como base. Pretendo um dia poder trabalha com SPA (_Single-Page Application_) e me identifiquei bastante com a linguagem, principalmente, por ser muito habituada a trabalhar com HTML e CSS.
 
 
+
 ![JavaScript (shields.io)](https://img.shields.io/badge/-JavaScript-%23F7DF1E)
 
 A web que conhecemos hoje não seria nada sem o JavaScript e, além de usar frameworks, estou conhecendo e estudando o JS em sua forma pura. Assim, poderei trabalhar tanto com aplicações e sites atuais, quanto com mais antigos.
+
 
 
 ![PHP (shields.io)](https://img.shields.io/badge/-PHP-%23777BB4)  ![Laravel (shields.io)](https://img.shields.io/badge/-Laravel-%23FF2D20)
